@@ -11,7 +11,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import io.restassured.RestAssured;
-import io.restassured.path.json.JsonPath;
 
 public class CreateCustomerAPI {
 
